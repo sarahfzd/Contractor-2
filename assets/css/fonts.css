@@ -1,11 +1,8 @@
 @font-face {
-    font-family: 'IranSans';
-    src: url('assets/fonts/IRANSansWeb_Light.ttf')format('truetype'),
+    font-family: 'SpaceGrotesk';
+    src: url('assets/fonts/SpaceGrotesk-Regular.ttf')format('truetype'),
 }
-*{
-    font-family: IranSans;
-}
-/* 
+
 @font-face {
     font-family: 'Helvetica';
     src: url('assets/fonts/Helvetica.woff')format('woff');
@@ -17,4 +14,4 @@
 
 .spacegrotesk {
     font-family: SpaceGrotesk;
-} */
+}
